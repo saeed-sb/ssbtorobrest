@@ -3,7 +3,7 @@
     <name>ssbtorobrest</name>
     <displayName><![CDATA[Torob Rest API]]></displayName>
     <version><![CDATA[0.1.0]]></version>
-    <description><![CDATA[This module exposes REST API endpoints for access Torob Marketplace]]></description>
+    <description><![CDATA[This module exposes REST API endpoint for access Torob Marketplace]]></description>
     <author><![CDATA[Saeed Sattar Beglou]]></author>
     <tab><![CDATA[others]]></tab>
 	<confirmUninstall><![CDATA[]]></confirmUninstall>
