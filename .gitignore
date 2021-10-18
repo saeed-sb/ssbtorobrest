@@ -3,3 +3,9 @@ controllers/.DS_Store
 controllers/front/.DS_Store
 views/.DS_Store
 views/templates/.DS_Store
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+.idea/ssbtorobrest.iml
+.idea/workspace.xml
+.idea/php.xml

@@ -119,7 +119,6 @@ class SsbtorobrestProductdetailModuleFrontController extends AbstractRESTControl
 	    $url = $link->getProductLink($product['product_id'], null, null, null, Configuration::get('PS_LANG_DEFAULT'));
 	    $product['page_url'] = $url;
 
-
         if ($this->product->available_for_order) {
 	        if ($this->product->out_of_stock == 1) {
 		        $product['availability'] = 'instock';
